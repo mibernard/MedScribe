@@ -1,7 +1,8 @@
 # MedScribe
 
 Devpost: https://devpost.com/software/healthassist-qrjm4p 
-Demo: hackdavis3.vercel.app
+
+Demo: https://hackdavis3.vercel.app/
 
 ## Overview
 
