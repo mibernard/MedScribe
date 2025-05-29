@@ -1,5 +1,8 @@
 # MedScribe
 
+Devpost: https://devpost.com/software/healthassist-qrjm4p 
+Demo: hackdavis3.vercel.app
+
 ## Overview
 
 MedScribe is a powerful healthcare AI-Agent platform that helps medical professionals streamline their workflow, reduce administrative burden, and focus more on patient care. The application leverages AI to manage transcriptions, automate documentation, and optimize scheduling.
